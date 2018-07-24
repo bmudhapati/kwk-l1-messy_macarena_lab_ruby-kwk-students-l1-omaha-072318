@@ -1,5 +1,5 @@
 # Messy Macarena
-
+  
 ## Objectives
 
 1. Use `puts` to print out the steps of the Macarena in the correct order.
