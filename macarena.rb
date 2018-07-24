@@ -5,10 +5,10 @@ puts "How To Do The Macarena:"
 # The first instruction is correct. 
 
 # Step 1: GOOD
-puts "Step 1: "Right arm out in front of you, palm facing down."
+puts "Step 1: Right arm out in front of you, palm facing down."
 
 # Step 2: FIXME
-puts "Step 1: "Right arm out in front of you, palm facing down."
+puts "Step 1: Right arm out in front of you, palm facing down."
 # Step 3: FIXME
 puts "Step 3: "Turn your right palm up."
 
